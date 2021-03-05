@@ -10,7 +10,6 @@ quotes = [
     "Education is learning what you didn’t even know you didn’t know.",
     "...Michael Bading...",
     "...Ivana Cervenka...",
-    "Never walk alone"
     "...Manuela Ehret...",
     "...Finn Marvin Feldmann...",
     "...Juri Fitz...",
@@ -27,5 +26,6 @@ quotes = [
 ]
 
 print("\n" + random.choice(quotes))
+
 
 
