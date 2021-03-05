@@ -12,17 +12,17 @@ quotes = [
     "...Ivana Cervenka...",
     "...Hi my name is Manuela Ehret...",
     "...Finn Marvin Feldmann...",
-    "...Juri Fitz...",
+    "...I have no idea what I'm doing!...",
     "...Michèle Grindat...",
     "...Morris Grüter...",
     "...Ann Christin Kogel...",
     "...Haokun Liu...",
     "...Michael Schäfer...",
     "...Jonas Schild...",
-    "...Brigitta Schmid...",
+    "...its fine...",
     "When I am busy, the mountain looks at me. When I am at leisure, I look at the mountain.",
-    "...Sibylle Wilhelm...",
-    "...Peter Zweifel...",
+    "Sadly it is raining today.",
+    "...Have no fear, Vlad is here...",
 ]
 
 print("\n" + random.choice(quotes))
