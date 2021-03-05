@@ -22,7 +22,7 @@ quotes = [
     "...Brigitta Schmid...",
     "When I am busy, the mountain looks at me. When I am at leisure, I look at the mountain.",
     "...Sibylle Wilhelm...",
-    "...Peter Zweifel...",
+    "...Have no fear, Vlad is here...",
 ]
 
 print("\n" + random.choice(quotes))
