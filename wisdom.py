@@ -29,4 +29,3 @@ quotes = [
 print("\n" + random.choice(quotes))
 
 
-
