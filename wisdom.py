@@ -21,7 +21,7 @@ quotes = [
     "...Jonas Schild...",
     "...Brigitta Schmid...",
     "When I am busy, the mountain looks at me. When I am at leisure, I look at the mountain.",
-    "Sadly it is raining today.",
+    "...Sibylle Wilhelm...",
     "...Peter Zweifel...",
 ]
 
