@@ -19,7 +19,7 @@ quotes = [
     "...Haokun Liu...",
     "...Michael Schäfer...",
     "...Jonas Schild...",
-    "...Brigitta Schmid...",
+    "...its fine...",
     "When I am busy, the mountain looks at me. When I am at leisure, I look at the mountain.",
     "...Sibylle Wilhelm...",
     "...Have no fear, Vlad is here...",
