@@ -20,7 +20,7 @@ quotes = [
     "...Michael Schäfer...",
     "...Jonas Schild...",
     "...Brigitta Schmid...",
-    "...Brian Marvin Schweigler...",
+    "When I am busy, the mountain looks at me. When I am at leisure, I look at the mountain.",
     "...Sibylle Wilhelm...",
     "...Peter Zweifel...",
 ]
