@@ -12,7 +12,7 @@ quotes = [
     "...Ivana Cervenka...",
     "...Manuela Ehret...",
     "...Finn Marvin Feldmann...",
-    "...I have no idea what I'm doing...",
+    "...I have no idea what I'm doing!...",
     "...Michèle Grindat...",
     "...Morris Grüter...",
     "...Ann Christin Kogel...",
