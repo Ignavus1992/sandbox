@@ -18,6 +18,7 @@ quotes = [
     "...Ann Christin Kogel...",
     "...Haokun Liu...",
     "...Michael Schäfer...",
+    "Hey",
     "...Jonas Schild...",
     "...its fine...",
     "When I am busy, the mountain looks at me. When I am at leisure, I look at the mountain.",
