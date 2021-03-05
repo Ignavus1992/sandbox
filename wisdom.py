@@ -10,7 +10,7 @@ quotes = [
     "Education is learning what you didn’t even know you didn’t know.",
     "...Michael Bading...",
     "...Ivana Cervenka...",
-    "...Hello my name is Manuela Ehret...",
+    "...Hi my name is Manuela Ehret...",
     "...Finn Marvin Feldmann...",
     "...Juri Fitz...",
     "...Michèle Grindat...",
